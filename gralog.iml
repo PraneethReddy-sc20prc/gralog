@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/gradle/wrapper/gradle-wrapper.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/gralog-automaton/src/main/java" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/gralog-automaton/src/test/java" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/gralog-computation-tree-logic/src/main/java" expected_position="3" />
+      <src_folder value="file://$MODULE_DIR$/gralog-core/src/main/java" expected_position="4" />
+      <src_folder value="file://$MODULE_DIR$/gralog-core/src/test/java" expected_position="5" />
+      <src_folder value="file://$MODULE_DIR$/gralog-dockfx/src/main/java" expected_position="6" />
+      <src_folder value="file://$MODULE_DIR$/gralog-finite-game/src/main/java" expected_position="7" />
+      <src_folder value="file://$MODULE_DIR$/gralog-first-order-logic/src/main/java" expected_position="8" />
+      <src_folder value="file://$MODULE_DIR$/gralog-first-order-logic/src/test/java" expected_position="9" />
+      <src_folder value="file://$MODULE_DIR$/gralog-fx/src/main/java" expected_position="10" />
+      <src_folder value="file://$MODULE_DIR$/gralog-jgrapht-bridge/src/main/java" expected_position="11" />
+      <src_folder value="file://$MODULE_DIR$/gralog-modal-logic/src/main/java" expected_position="12" />
+      <src_folder value="file://$MODULE_DIR$/gralog-modal-logic/src/test/java" expected_position="13" />
+      <src_folder value="file://$MODULE_DIR$/gralog-modal-mu-calculus/src/main/java" expected_position="14" />
+      <src_folder value="file://$MODULE_DIR$/gralog-modal-mu-calculus/src/test/java" expected_position="15" />
+      <src_folder value="file://$MODULE_DIR$/gralog-np-completeness/src/main/java" expected_position="16" />
+      <src_folder value="file://$MODULE_DIR$/gralog-np-completeness/src/test/java" expected_position="17" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Python 3.9" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gralog-automaton/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-automaton/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-computation-tree-logic/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-core/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-core/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-dockfx/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-finite-game/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-first-order-logic/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-first-order-logic/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-fx/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-jgrapht-bridge/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-modal-logic/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-modal-logic/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-modal-mu-calculus/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-modal-mu-calculus/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-np-completeness/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gralog-np-completeness/src/test/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="gradle-wrapper.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/gradle/wrapper/gradle-wrapper.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Python 3.9 interpreter library" level="application" />
+  </component>
+</module>
